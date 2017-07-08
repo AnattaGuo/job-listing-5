@@ -34,6 +34,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise', '~> 4.3'
 gem 'simple_form'
 gem 'font-awesome-rails'
+gem 'carrierwave'
+gem 'carrierwave'
 
 
 group :development, :test do
